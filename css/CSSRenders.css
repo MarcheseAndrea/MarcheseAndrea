@@ -1,0 +1,24 @@
+.videoDiv{
+    padding: 20px;
+    width: 25%;
+    align-items: center;
+    text-align: center;
+
+}
+
+.videoSector{
+    text-align: left;
+}
+
+.video{
+    border-radius: 10%;
+}
+
+.title{
+    font-size: larger;
+}
+
+.paragraphDiv{
+    width: 70%;
+    background-color: blue;
+}
